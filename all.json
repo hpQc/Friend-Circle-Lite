@@ -1,0 +1,46 @@
+{
+  "statistical_data": {
+    "friends_num": 1,
+    "active_num": 1,
+    "error_num": 0,
+    "article_num": 5,
+    "last_updated_time": "2025-05-25 00:11:31"
+  },
+  "article_data": [
+    {
+      "title": "Linux系统移植篇(三)——根文件系统的构建",
+      "created": "2023-04-01 23:00",
+      "link": "https://www.fomal.cc/posts/92cc006e.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "Linux系统移植篇(二)——Linux内核移植",
+      "created": "2023-03-30 08:00",
+      "link": "https://www.fomal.cc/posts/7aaa16c1.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "Linux系统移植篇(一)——Uboot移植",
+      "created": "2023-03-29 05:00",
+      "link": "https://www.fomal.cc/posts/9e744961.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "无服务器部署自己的chatGPT",
+      "created": "2023-03-23 08:00",
+      "link": "https://www.fomal.cc/posts/74ac8dc8.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "Linux驱动模型详解",
+      "created": "2023-03-20 00:00",
+      "link": "https://www.fomal.cc/posts/dd1040c8.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    }
+  ]
+}
